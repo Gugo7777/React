@@ -1,0 +1,38 @@
+.sales{
+    width: 100%;
+}
+
+.salesmain{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.boxes{
+
+    height: 100%;
+}
+
+.boxes img{
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.price{
+    font-size: small;
+    margin-left: 10px;
+    text-decoration: line-through;
+    color: rgb(125, 118, 118);
+}
+
+.zexj{
+    
+    font-size: medium;
+    font-weight: 700;
+}
+
+.title{
+    color: rgb(125, 118, 118);
+}

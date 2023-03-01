@@ -1,0 +1,81 @@
+.foricons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 100vh;
+}
+
+.foricons .div251{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    gap: 15px;
+    font-size: large;
+}
+
+.div251:hover {
+    background: #cb11ab;
+    color: #fff;
+}
+
+.x{
+    width:20%;
+    padding-left: 20px;
+}
+
+.closeicon{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.div250 {
+    width: auto;
+    min-height: 100vh;
+    background-color: white;
+    padding-left: 20px;
+    position:absolute;
+    left: 20%;
+    top: 0;
+    display: none;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.foricons:hover .div250{
+ display: flex;
+ justify-content: start;
+}
+
+.div250 li{
+    color: rgba(89, 86, 86, 0.7);
+    font-size: 18px;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.div250 h4{
+    margin-top: 20px;
+} 
+
+.div252 img{
+    width: 300px;
+    border-radius: 20px;
+    
+}
+
+.div252 p{
+    text-align: center;
+}
+
+.pp1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+

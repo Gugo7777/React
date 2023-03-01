@@ -1,0 +1,12 @@
+.main1 {
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+    justify-content: center;
+}
+
+.main1 img{
+    border-radius: 20px;
+    width: 50%;
+}
